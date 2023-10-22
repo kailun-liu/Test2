@@ -15,4 +15,3 @@ st.vega_lite_chart(
            "color": {"field": "c", "type": "quantitative"},
        },
    },
-)
